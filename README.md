@@ -106,24 +106,24 @@ The following is a tentative schedule. We may update it as we go.
 }
 </style> -->
 
-|Wk|Date|Topic|Readings|Presentations|Homework|
-| -|-|-|-| -|-|
-|1|Jan 27|Welcome, Logistics|Overview Data Science <br> [Environment Setup](https://www.anaconda.com/) <br> [Google Colab Tutorial](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)||TBD|
-|2|Feb 3|Python Basics|||TBD|
-|3|Feb 10|Data Formats|||TBD|
-|4|Feb 17|Acquiring and Storing Data|||TBD|
-|5|Feb 24|Data Cleanup part-I|||TBD|
-|6|Mar 3|Data Cleanup Part-II|||TBD|
-|7|Mar 10|Data Exploration and Analysis|||TBD|
-|8|Mar 17|Spring Break|No Class||TBD|
-|9|Mar 24|Data Exploration and Analysis Part-II|||TBD|
-|10|Mar 31|Presenting Your Data|||TBD|
-|11|Apr 7|Web scraping|||TBD|
-|12|Apr 14|API's|||TBD|
-|13|Apr 21|Automation and Scaling|||TBD|
-|14|Apr 28||||TBD|
-|15|May 5||||TBD|
-|16|May 12|Final Projects|||Group Presentations|
+|Wk|Date|Topic|
+| -|-|-|
+|1|Jan 27|Welcome, Logistics|
+|2|Feb 3|Python Basics|
+|3|Feb 10|Data Formats|
+|4|Feb 17|Acquiring and Storing Data|
+|5|Feb 24|Data Cleanup part-I|
+|6|Mar 3|Data Cleanup Part-II|
+|7|Mar 10|Data Exploration and Analysis|
+|8|Mar 17|Spring Break|
+|9|Mar 24|Data Exploration and Analysis Part-II|
+|10|Mar 31|Presenting Your Data|
+|11|Apr 7|Web scraping|
+|12|Apr 14|API's|
+|13|Apr 21|Automation and Scaling|
+|14|Apr 28||
+|15|May 5||
+|16|May 12|Final Projects|
 
 ## Course Policies
 
