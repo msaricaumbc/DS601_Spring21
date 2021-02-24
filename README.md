@@ -105,25 +105,24 @@ The following is a tentative schedule. We may update it as we go.
     width: 10%;
 }
 </style> -->
-<!-- 
 |Wk|Date|Topic|
 | -|-|-|
-|1|Jan 27|Welcome, Logistics|
-|2|Feb 3|Python Basics|
-|3|Feb 10|Data Formats|
-|4|Feb 17|Acquiring and Storing Data|
-|5|Feb 24|Data Cleanup part-I|
-|6|Mar 3|Data Cleanup Part-II|
-|7|Mar 10|Data Exploration and Analysis|
-|8|Mar 17|Spring Break|
-|9|Mar 24|Data Exploration and Analysis Part-II|
-|10|Mar 31|Presenting Your Data|
-|11|Apr 7|Web scraping|
-|12|Apr 14|API's|
-|13|Apr 21|Automation and Scaling|
+|1|Jan 27|Overview of Data Science|
+|2|Feb 3|Python in Jupyter|
+|3|Feb 10|Getting data|
+|4|Feb 17|Data cleanup|
+|5|Feb 24|Automation; Reports|
+|6|Mar 3|Project 1 presentations|
+|7|Mar 10||
+|8|Mar 17||
+|9|Mar 24||
+|10|Mar 31||
+|11|Apr 7||
+|12|Apr 14||
+|13|Apr 21||
 |14|Apr 28||
 |15|May 5||
-|16|May 12|Final Projects| -->
+|16|May 12||
 
 ## Course Policies
 
