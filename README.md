@@ -105,7 +105,7 @@ The following is a tentative schedule. We may update it as we go.
     width: 10%;
 }
 </style> -->
-
+<!-- 
 |Wk|Date|Topic|
 | -|-|-|
 |1|Jan 27|Welcome, Logistics|
@@ -123,7 +123,7 @@ The following is a tentative schedule. We may update it as we go.
 |13|Apr 21|Automation and Scaling|
 |14|Apr 28||
 |15|May 5||
-|16|May 12|Final Projects|
+|16|May 12|Final Projects| -->
 
 ## Course Policies
 
