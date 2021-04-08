@@ -1,0 +1,63 @@
+// files and folders
+digraph {
+	graph [rankdir=LR]
+	"." [label="."]
+	"./test-output" [label="test-output"]
+	"." -> "./test-output"
+	"./.ipynb_checkpoints" [label=".ipynb_checkpoints"]
+	"." -> "./.ipynb_checkpoints"
+	"./data" [label=data]
+	"." -> "./data"
+	"./.DS_Store" [label=".DS_Store"]
+	"." -> "./.DS_Store"
+	"./example1_graph.png" [label="example1_graph.png"]
+	"." -> "./example1_graph.png"
+	"./2_networkx.ipynb" [label="2_networkx.ipynb"]
+	"." -> "./2_networkx.ipynb"
+	"./1_graphviz_for_static_graph_visualization.ipynb" [label="1_graphviz_for_static_graph_visualization.ipynb"]
+	"." -> "./1_graphviz_for_static_graph_visualization.ipynb"
+	"./Movie Graph.ipynb" [label="Movie Graph.ipynb"]
+	"." -> "./Movie Graph.ipynb"
+	"./4_files_and_folders.ipynb" [label="4_files_and_folders.ipynb"]
+	"." -> "./4_files_and_folders.ipynb"
+	"./3_pycallgraph.ipynb" [label="3_pycallgraph.ipynb"]
+	"." -> "./3_pycallgraph.ipynb"
+	"./pycallgraph.png" [label="pycallgraph.png"]
+	"." -> "./pycallgraph.png"
+	"./test-output" [label="./test-output"]
+	"./test-output/parrot.png" [label="parrot.png"]
+	"./test-output" -> "./test-output/parrot.png"
+	"./test-output/filename.png" [label="filename.png"]
+	"./test-output" -> "./test-output/filename.png"
+	"./test-output/files_and_folders" [label=files_and_folders]
+	"./test-output" -> "./test-output/files_and_folders"
+	"./test-output/fld_test.png" [label="fld_test.png"]
+	"./test-output" -> "./test-output/fld_test.png"
+	"./test-output/round-table" [label="round-table"]
+	"./test-output" -> "./test-output/round-table"
+	"./test-output/fld_test" [label=fld_test]
+	"./test-output" -> "./test-output/fld_test"
+	"./test-output/round-table.png" [label="round-table.png"]
+	"./test-output" -> "./test-output/round-table.png"
+	"./test-output/files_and_folders.png" [label="files_and_folders.png"]
+	"./test-output" -> "./test-output/files_and_folders.png"
+	"./test-output/parrot" [label=parrot]
+	"./test-output" -> "./test-output/parrot"
+	"./test-output/filename" [label=filename]
+	"./test-output" -> "./test-output/filename"
+	"./.ipynb_checkpoints" [label="./.ipynb_checkpoints"]
+	"./.ipynb_checkpoints/3_pycallgraph-checkpoint.ipynb" [label="3_pycallgraph-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/3_pycallgraph-checkpoint.ipynb"
+	"./.ipynb_checkpoints/4_files_and_folders-checkpoint.ipynb" [label="4_files_and_folders-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/4_files_and_folders-checkpoint.ipynb"
+	"./.ipynb_checkpoints/1_graphviz_for_static_graph_visualization-checkpoint.ipynb" [label="1_graphviz_for_static_graph_visualization-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/1_graphviz_for_static_graph_visualization-checkpoint.ipynb"
+	"./.ipynb_checkpoints/2_networkx-checkpoint.ipynb" [label="2_networkx-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/2_networkx-checkpoint.ipynb"
+	"./.ipynb_checkpoints/Movie Graph-checkpoint.ipynb" [label="Movie Graph-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/Movie Graph-checkpoint.ipynb"
+	"./data" [label="./data"]
+	"./data/The.Matrix.1999.720p.BluRay.264.YIFY.txt" [label="The.Matrix.1999.720p.BluRay.264.YIFY.txt"]
+	"./data" -> "./data/The.Matrix.1999.720p.BluRay.264.YIFY.txt"
+	overlap=false
+}
